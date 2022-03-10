@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World
+My name is Pascal and I am a student for information technology.
+Infrastructure, Container & Programming are my main topics.
+
+Feel free to contact me on Threema: N9WJ72V4
+
+[![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=plehr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **plehr/plehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
